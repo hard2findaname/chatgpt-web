@@ -1,0 +1,1 @@
+docker build -t sophisticate1/chatgpt-web-app:1.2 .
