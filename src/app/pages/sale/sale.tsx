@@ -75,8 +75,8 @@ export function Sale() {
             ))}
             {showModal && (
                 <div className={styles["product-pay"]}>
-                    <div className={styles["product-pay-weixin"]}>
-                        微信扫码支付
+                    <div className={styles["product-pay-alipay"]}>
+                        支付宝扫码支付(沙箱)
                     </div>
                     <div className={styles["product-pay-url"]}>
                         <QRCode value={payUrl}/>

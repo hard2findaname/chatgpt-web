@@ -88,6 +88,13 @@
   font-weight: bold;
   color: #f5f5f5;
 }
+.product-pay-alipay {
+  position: fixed;
+  margin-top: -210px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #f5f5f5;
+}
 
 .product-pay-close {
   position: fixed;
@@ -104,7 +111,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #0ba800;
+  background-color: #046cee;
   width: 250px;
   height: 300px;
   border-radius: 20px;
